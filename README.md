@@ -37,15 +37,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LuizHenrique78/LuizHenrique78/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/LuizHenrique78]([https://www.linkedin.com/in/LuizHenrique78](https://www.linkedin.com/in/luiz-henrique-rodrigues-696331182))
+- LinkedIn: [https://www.linkedin.com/in/LuizHenrique78](https://www.linkedin.com/in/luiz-henrique-rodrigues-696331182)
 - Email: `luiz.rlemos345@gmail.com`
