@@ -1,22 +1,22 @@
-<h1 align="center">Olá! Eu sou o Luiz Henrique 👋</h1>
+<h1 align="center">Hi there! I'm Luiz Henrique 👋</h1>
 
 <p align="center">
-  Desenvolvedor Backend apaixonado por Python 🐍, microsserviços, e automação de testes.
+  Backend Developer passionate about Python, microservices, automation and distributed systems.
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 💻 Desenvolvedor Backend com foco em Python, FastAPI e gRPC  
-- ☁️ Experiência com Kubernetes, CI/CD e Cloud (DigitalOcean, GCP)  
-- 🧪 Testes automatizados: unitários, integração e robôs de QA  
-- 📦 Microsserviços e APIs escaláveis  
-- 🎮 Criando um MMORPG em Panda3D nas horas vagas
+- 🐍 Python backend developer with experience in FastAPI and gRPC  
+- ☁️ Working with Kubernetes, CI/CD pipelines and cloud infrastructure  
+- 🧪 Experienced in automated testing (unit, integration and QA bots)  
+- 🧱 Building scalable microservices and clean architecture APIs  
+- 🎮 Currently working on a MMORPG game engine using Panda3D  
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -28,7 +28,7 @@
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizHenrique78&show_icons=true&theme=radical&count_private=true&hide_title=true"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🐍 Snake de Contribuições
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LuizHenrique78/LuizHenrique78/output/github-contribution-grid-snake.svg" />
@@ -45,7 +45,7 @@
 
 ---
 
-## 📫 Fale comigo
+## 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/LuizHenrique78](https://www.linkedin.com/in/LuizHenrique78)
-- E-mail: `seuemail@exemplo.com`  
+- LinkedIn: [linkedin.com/in/LuizHenrique78]([https://www.linkedin.com/in/LuizHenrique78](https://www.linkedin.com/in/luiz-henrique-rodrigues-696331182))
+- Email: `luiz.rlemos345@gmail.com`
